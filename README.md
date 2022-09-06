@@ -15,3 +15,5 @@ https://stackoverflow.com/questions/29156532/python-baseline-correction-library
 and you can read more again the aymmetric least squares algorithm here:
 
 https://pubs.rsc.org/en/content/articlehtml/2015/an/c4an01061b
+
+Click on the example_read_raman.ipynb to see the code and the outputs from the analysis.
